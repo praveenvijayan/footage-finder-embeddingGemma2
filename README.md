@@ -2,7 +2,7 @@
 
 Search your footage, photos, voice memos and PDFs by **typing, speaking or showing an image**. One model (EmbeddingGemma 2), one index. It runs on your computer and makes no network calls, apart from downloading the model weights the first time.
 
-It's the demo app for the EmbeddingGemma 2 video. See `../script.md`.
+It's the reference implementation behind the EmbeddingGemma 2 architecture-decision video. The written decision record (options, evidence, sub-decisions, evaluation gate) is in [docs/decision-record.md](docs/decision-record.md).
 
 ## How it works
 
